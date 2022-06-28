@@ -22,7 +22,5 @@ nav ul li a{
 }
 nav ul li a:hover {
   color: yellow;
-  transition: all 0,95s;
-  padding-left: 30px;
-  cursor: pointer;
+ cursor: pointer;
 }
