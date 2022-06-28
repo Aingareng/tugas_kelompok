@@ -2,8 +2,6 @@
   margin:0px;
   padding: 0px;
 }
-jeader{
-}
 nav {
   line-height: 50px;
   background-color: orange;
@@ -12,7 +10,6 @@ nav {
 nav ul{
   display: flex;
   justify-content: center;
-
 }
 nav ul li{
   list-style: none;
